@@ -1,4 +1,4 @@
-# Bowfolios
+# Gym-Meet
 
 ## Table of contents
 
