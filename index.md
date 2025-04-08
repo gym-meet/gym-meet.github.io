@@ -17,18 +17,19 @@ Our gym-meet app allows students to connect with others according to their sched
 
 ## Mockup Ideas
 
+![](images/signin-page.png)
 ### Homepage
 * Includes About and Login/Signup pages.
 
+![](images/signup-page.png)
 ### User profile and setup page
 * Input gender, years of experience, schedule, split, height, personal records, contact info, etc into this page.
 
-### Other users' profile page
-* View other users' information and comparisons between their profile and yours in this page. 
-
+![](images/explore-page.png)
 ### Explore Page
 * Contains a list of other gym goers on the site.
-* Provides indicators of other people whose schedules match with yours.
+* View other users' information and filter between profiles.
+* Provides indicators of other people whose schedules match with yours. 
 
 ### Admin settings page
 * Admins can use this page to create, edit, and delete user data.
