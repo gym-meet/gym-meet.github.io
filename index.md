@@ -17,7 +17,7 @@ Our gym-meet app allows students to connect with others according to their sched
 
 ## Mockup Ideas
 
-![](images/signin-page.png)
+![](images/home-page.png)
 ### Homepage
 * Includes About and Login/Signup pages.
 
