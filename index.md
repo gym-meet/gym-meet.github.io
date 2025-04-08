@@ -21,7 +21,7 @@ Our gym-meet app allows students to connect with others according to their sched
 ### Homepage
 * Includes About and Login/Signup pages.
 
-![](images/signup-page.png)
+![](images/profile-page.png)
 ### User profile and setup page
 * Input gender, years of experience, schedule, split, height, personal records, contact info, etc into this page.
 
