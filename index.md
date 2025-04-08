@@ -15,6 +15,24 @@ For many university students, their first introduction to the gym is the Rec Cen
 ### Our Solution
 Our gym-meet app allows students to connect with others according to their schedules and workout preferences, and go to the gym together. With this, UH students can get to know people with similar interests and experience levels, and not be afraid of going to the gym alone.
 
+## Mockup Ideas
+
+### Homepage
+* Includes About and Login/Signup pages.
+
+### User profile and setup page
+* Input gender, years of experience, schedule, split, height, personal records, contact info, etc into this page.
+
+### Other users' profile page
+* View other users' information and comparisons between their profile and yours in this page. 
+
+### Explore Page
+* Contains a list of other gym goers on the site.
+* Provides indicators of other people whose schedules match with yours.
+
+### Admin settings page
+* Admins can use this page to create, edit, and delete user data.
+
 ### Milestone 1: Mockup development
 
 The goal of Milestone 1 was to create a set of HTML pages providing a mockup of the pages in the system.
