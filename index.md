@@ -1,24 +1,11 @@
 # Gym-Meet
 
-## Table of contents
-
-* [Overview](#overview)
-* [Deployment](#deployment)
-* [User Guide](#user-guide)
-* [Community Feedback](#community-feedback)
-* [Developer Guide](#developer-guide)
-* [Development History](#development-history)
-* [Continuous Integration](#continuous-integration)
-* [Walkthrough videos](#walkthrough-videos)
-* [Example enhancements](#example-enhancements)
-* [Team](#team)
-
 ## Our Team
 * Kimberly Nguyen
 * Kathryn Nakagawa
-* 
-
-
+* Raine Mendoza
+* Jarell Ballesteros
+* John Yamamoto
 
 ## Overview
 
@@ -28,6 +15,21 @@ For many university students, their first introduction to the gym is the Rec Cen
 ### Our Solution
 Our gym-meet app allows students to connect with others according to their schedules and workout preferences, and go to the gym together. With this, UH students can get to know people with similar interests and experience levels, and not be afraid of going to the gym alone.
 
+## Mockup Ideas
+### Homepage
+* Includes About and Login/Signup pages.
+
+### User profile and setup page
+* Input gender, years of experience, schedule, split, height, personal records, contact info, etc into this page.
+
+### Other users' profile page
+* View other users' information and comparisons between their profile and yours in this page. 
+
+### Explore Page
+* Contains a list of other gym goers on the site.
+* Provides 
+
+ 
 
 
 ## User Guide
