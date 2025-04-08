@@ -17,28 +17,26 @@ Our gym-meet app allows students to connect with others according to their sched
 
 ## Mockup Ideas
 
-![](images/landing-page.png)
 ### Homepage
 * Includes About and Login/Signup pages.
+![](images/landing-page.png)
 
-![](images/profile-page.png)
 ### User profile and setup page
 * Input gender, years of experience, schedule, split, height, personal records, contact info, etc into this page.
+![](images/profile-page.png)
 
-![](images/explore-page.png)
 ### Explore Page
 * Contains a list of other gym goers on the site.
 * View other users' information and filter between profiles.
-* Provides indicators of other people whose schedules match with yours. 
+* Provides indicators of other people whose schedules match with yours.
+![](images/explore-page.png)
 
-### Admin settings page
-* Admins can use this page to create, edit, and delete user data.
 
-### Milestone 1: Mockup development
+### Milestone 1: Mockup Development
 
 The goal of Milestone 1 was to create a set of HTML pages providing a mockup of the pages in the system.
 
-Milestone 1 was managed using [BowFolio GitHub Project Board M1](https://github.com/bowfolios/bowfolios/projects/1):
+Milestone 1 was managed using [BowFolio GitHub Project Board M1](https://github.com/bowfolios/bowfolios/projects/1)
 
 
 ## Team
