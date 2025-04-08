@@ -3,7 +3,6 @@
 ## Table of contents
 
 * [Overview](#overview)
-* [Developer Guide](#developer-guide)
 * [Development History](#development-history)
 * [Team](#team)
 
