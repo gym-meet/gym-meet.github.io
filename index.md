@@ -19,17 +19,23 @@ Our gym-meet app allows students to connect with others according to their sched
 
 ### Homepage
 * Includes About and Login/Signup pages.
-![](images/landing-page.png)
+![](images/homepage.png)
 
 ### User profile and setup page
 * Input gender, years of experience, schedule, split, height, personal records, contact info, etc into this page.
-![](images/profile-page.png)
+![](images/profilepage.png)
 
 ### Explore Page
 * Contains a list of other gym goers on the site.
 * View other users' information and filter between profiles.
 * Provides indicators of other people whose schedules match with yours.
-![](images/explore-page.png)
+![](images/explorepage.png)
+
+### Schedule Meetup Page
+* Contains a shared calendar where you can see when your friends are planning on going to the gym.
+* Set the times you plan to go each week.
+* Add any addiitonal days/times you plan on going to the gym that aren't listed in your profile.
+![](images/schedulepage.png)
 
 
 ### Milestone 1: Mockup Development
