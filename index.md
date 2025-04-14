@@ -33,7 +33,6 @@ Here is our deployed [application](#)
 
 [Milestone 2](https://github.com/orgs/gym-meet/projects/7)
 
-
 ## Mockup Ideas
 
 ### Homepage
