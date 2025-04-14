@@ -35,11 +35,13 @@ Here is our deployed [application.](https://gym-buddy-five.vercel.app/)
 ### Landing Page
 * The first page all users see.
 * Navigate to the explore page, sign up, and more!
+
 ![](images/landingpage-wip1.png)
 
 ### Sign Up Page
 * A simple page for users to create an account.
 * Includes a link to the login page in the event a user already has an account.
+
 ![](images/signuppage-wip1.png)
 
 ### Homepage
