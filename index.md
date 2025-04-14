@@ -32,12 +32,22 @@ Here is our deployed [application.](https://gym-buddy-five.vercel.app/)
 
 ## Mockup Ideas
 
+### Landing Page
+* The first page all users see.
+* Navigate to the explore page, sign up, and more!
+![](images/landingpage-wip1.png)
+
+### Sign Up Page
+* A simple page for users to create an account.
+* Includes a link to the login page in the event a user already has an account.
+![](images/signuppage-wip1.png)
+
 ### Homepage
-* Includes About and Login/Signup pages.
+* Includes what the site is about and easy access to tools such as the user profile and scheduling page.
 ![](images/homepage.png)
 
-### User profile and setup page
-* Input gender, years of experience, schedule, split, height, personal records, contact info, etc into this page.
+### User Profile/Setup Page
+* Include your gender, years of experience, schedule, split, height, personal records, contact info, etc. into this page.
 ![](images/profilepage.png)
 
 ### Explore Page
