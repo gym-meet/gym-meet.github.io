@@ -31,7 +31,7 @@ Here is our deployed [application](#)
 
 [Milestone 1](https://github.com/orgs/gym-meet/projects/2)
 
-[Milestone 2](https://github.com/orgs/gym-meet/projects/6/views/1)
+[Milestone 2](https://github.com/orgs/gym-meet/projects/7)
 
 
 ## Mockup Ideas
