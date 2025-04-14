@@ -15,6 +15,25 @@ For many university students, their first introduction to the gym is the Rec Cen
 ### Our Solution
 Our gym-meet app allows students to connect with others according to their schedules and workout preferences, and go to the gym together. With this, UH students can get to know people with similar interests and experience levels, and not be afraid of going to the gym alone.
 
+## Team
+
+Gym Buddies is designed, implemented, and maintained by John Yamamoto, Jarell Ballesteros, Kathryn Nakagawa, Kimberly Nguyen, Raine Mendoza.
+
+[Team Contract](https://docs.google.com/document/d/1vLohLOMnnn7a7mI3A0naIYsxXPSLakaRsPm0aQS7NiY/edit?tab=t.0)
+
+## Current State of the Project
+
+## Deployment
+
+Here is our deployed [application](#)
+
+## Project Pages
+
+[Milestone 1](https://github.com/orgs/gym-meet/projects/2)
+
+[Milestone 2](https://github.com/orgs/gym-meet/projects/6/views/1)
+
+
 ## Mockup Ideas
 
 ### Homepage
@@ -45,8 +64,3 @@ The goal of Milestone 1 was to create a set of HTML pages providing a mockup of 
 Milestone 1 was managed using [BowFolio GitHub Project Board M1](https://github.com/bowfolios/bowfolios/projects/1)
 
 
-## Team
-
-Gym Buddies is designed, implemented, and maintained by John Yamamoto, Jarell Ballesteros, Kathryn Nakagawa, Kimberly Nguyen, Raine Mendoza.
-
-[Team Contract](https://docs.google.com/document/d/1vLohLOMnnn7a7mI3A0naIYsxXPSLakaRsPm0aQS7NiY/edit?tab=t.0)
