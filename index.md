@@ -1,3 +1,5 @@
+# Gym-Meet
+
 ## Table of contents
 
 * [Overview](#overview)
@@ -20,7 +22,7 @@ Gym Buddies is designed, implemented, and maintained by John Yamamoto, Jarell Ba
 
 ## Deployment
 
-Here is our deployed [application](https://gym-buddy-five.vercel.app/)
+Here is our deployed [application.](https://gym-buddy-five.vercel.app/)
 
 ## Project Pages
 
