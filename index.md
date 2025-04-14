@@ -25,7 +25,7 @@ Gym Buddies is designed, implemented, and maintained by John Yamamoto, Jarell Ba
 
 ## Deployment
 
-Here is our deployed [application](#)
+Here is our deployed [application](https://gym-buddy-five.vercel.app/)
 
 ## Project Pages
 
