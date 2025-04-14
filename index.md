@@ -1,11 +1,8 @@
-# Gym-Meet
-
 ## Table of contents
 
 * [Overview](#overview)
 * [Development History](#development-history)
 * [Team](#team)
-
 
 ## Overview
 
@@ -20,8 +17,6 @@ Our gym-meet app allows students to connect with others according to their sched
 Gym Buddies is designed, implemented, and maintained by John Yamamoto, Jarell Ballesteros, Kathryn Nakagawa, Kimberly Nguyen, Raine Mendoza.
 
 [Team Contract](https://docs.google.com/document/d/1vLohLOMnnn7a7mI3A0naIYsxXPSLakaRsPm0aQS7NiY/edit?tab=t.0)
-
-## Current State of the Project
 
 ## Deployment
 
