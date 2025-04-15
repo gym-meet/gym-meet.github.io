@@ -3,7 +3,7 @@
 ## Table of contents
 
 * [Overview](#overview)
-* [Project Pages](#project-pages)
+* [Milestones & Mockups](#milestones-mockups)
 
 ## Team
 Gym Buddies is designed, implemented, and maintained by John Yamamoto, Jarell Ballesteros, Kathryn Nakagawa, Kimberly Nguyen, Raine Mendoza.
@@ -23,7 +23,7 @@ For many university students, their first introduction to the gym is the Rec Cen
 Our gym-meet app allows students to connect with others according to their schedules and workout preferences, and go to the gym together. With this, UH students can get to know people with similar interests and experience levels, and not be afraid of going to the gym alone.
 
 
-## Project Pages & Mockups
+## Milestones & Mockups
 
 [Milestone 1](https://github.com/orgs/gym-meet/projects/2)
 
