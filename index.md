@@ -2,8 +2,8 @@
 
 ## Table of contents
 
-[Overview](#overview)
-[Project Pages](#project-pages)
+* [Overview](#overview)
+* [Project Pages](#project-pages)
 
 ## Team
 Gym Buddies is designed, implemented, and maintained by John Yamamoto, Jarell Ballesteros, Kathryn Nakagawa, Kimberly Nguyen, Raine Mendoza.
