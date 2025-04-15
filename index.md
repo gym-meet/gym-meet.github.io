@@ -65,10 +65,3 @@ Here is our deployed [application.](https://gym-buddy-five.vercel.app/)
 ![](images/schedulepage.png)
 
 
-### Milestone 1: Mockup Development
-
-The goal of Milestone 1 was to create a set of HTML pages providing a mockup of the pages in the system.
-
-Milestone 1 was managed using [BowFolio GitHub Project Board M1](https://github.com/bowfolios/bowfolios/projects/1)
-
-
