@@ -36,11 +36,12 @@ Our gym-meet app allows students to connect with others according to their sched
 
 ![](images/landingpage-wip1.png)
 
-### Sign Up Page
-* A simple page for users to create an account.
-* Includes a link to the login page in the event a user already has an account.
+### Sign Up & Sign In Page
+* A simple page for users to create an account or log in.
+* Includes a link to the login or sign up page in the event the user needs to switch.
 
 ![](images/signuppage-wip1.png)
+![](images/signinpage-wip1.png)
 
 ### Homepage
 * Includes what the site is about and easy access to tools such as the user profile and scheduling page.
