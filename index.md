@@ -46,9 +46,15 @@ After successfully logging in (or creating an account), you will be directed to 
 
 You profile page is the place to customize your experience at gym meet to the fullest. You can update your username and password, list social media and any contact information you feel comfortable sharing, select what days out of the week you prefer to go to the gym and specific filters such as preferred exercises, experience, age and gender. This ensures that you  match with people who fit your routine and workout needs.
 
-![](images/profilepage.png)
+![](images/profilepage-wip2.png)
 
 Next is the explore page, where you can browse through other people's gym meet accounts. Filter based on exercises, scheduling and more to find people with similar preferences and matching times. Then you can send friend requests and schedule to meet with them.
+
+![](images/explorepage.png)
+
+Finally, we have the calendar page. This is a separate page that displays when you and your friends are going to the gym throughout the month. Here you can easily coordinate meetups at the gym and even add extra workout days that aren't listed in your weekly routine!
+
+![](images/schedulepage.png)
 
 
 
