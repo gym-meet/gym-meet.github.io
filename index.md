@@ -3,6 +3,7 @@
 ## Table of contents
 
 * [Overview](#overview)
+* [User Guide](#user-guide)
 * [Milestones and Mockups](#milestones-and-mockups)
 
 ## Team
@@ -30,7 +31,7 @@ Our gym-meet app allows students to connect with others according to their worko
 ## User Guide
 The first page you're introduced to is the landing page, with it's main purpose being to guide you to the signup/sign in and explore pages. You can view the explore page even if you don't have an account, but you cannot befriend others until you sign in or create an account yourself.
 
-![](images/landingpage-wip1.png)
+![](images/landingpage-wip2.png)
 
 Depending on whether or not you have an account, you will be directed to the signup or sign in pages. If you're signing up, the page will ask you to confirm your password before it logs your information into the database. 
 
@@ -38,7 +39,7 @@ Depending on whether or not you have an account, you will be directed to the sig
 
 If you're signing in, it will only ask for your username and password before logging you into your account.
 
-![](images/signinpage-wip1.png)
+![](images/signinpage-wip2.png)
 
 After successfully logging in (or creating an account), you will be directed to the home page. Here, there's a brief description on what the app is about, and you'll have easy access to your profile page, the explore page, and calendar feature. Let's take a look at the profile page first.
 
