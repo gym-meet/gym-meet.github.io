@@ -39,7 +39,7 @@ Depending on whether or not you have an account, you will be directed to the sig
 
 If you're signing in, it will only ask for your username and password before logging you into your account.
 
-![](images/signinpage-wip2.png)
+![](images/loginpage-wip2.png)
 
 After successfully logging in (or creating an account), you will be directed to the home page. Here, there's a brief description on what the app is about, and you'll have easy access to your profile page, the explore page, and calendar feature. Let's take a look at the profile page first.
 
