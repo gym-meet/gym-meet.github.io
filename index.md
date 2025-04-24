@@ -85,6 +85,9 @@ Gym Buddy uses Playwright to provide automated end-to-end testing.
 
 Gym Buddy uses [GitHub Actions](https://docs.github.com/en/free-pro-team@latest/actions) to automatically run ESLint and Playwright each time a commit is made to the default branch. You can see the results of all recent "workflows" at https://github.com/gym-meet/gym-buddy/actions.
 
+### Deployment
+
+Gym Buddy uses [Vercel](https://vercel.com) to deploy new versions of the project. To deploy your version of the project, fork the repo into your own GitHub profile, develop in that fork, then start a new project in Vercel and connect it to your forked repo.
 
 ## User Guide
 The first page you're introduced to is the landing page, with it's main purpose being to guide you to the signup/sign in and explore pages. You can view the explore page even if you don't have an account, but you cannot befriend others until you sign in or create an account yourself.
