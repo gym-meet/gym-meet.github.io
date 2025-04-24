@@ -65,4 +65,4 @@ Next is the explore page, where you can browse through other people's gym meet a
 
 Finally, we have the calendar page. This is a separate page that displays when you and your friends are going to the gym throughout the month. Here you can easily coordinate meetups at the gym and even add extra workout days that aren't listed in your weekly routine!
 
-![](images/schedulepage.png)
+![](images/calendarpage-wip1.png)
