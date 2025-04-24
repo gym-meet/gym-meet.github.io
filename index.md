@@ -35,7 +35,55 @@ Our gym-meet app allows students to connect with others according to their worko
 
 
 ## Developer Guide
-(Insert step-by-step process of downloading, installing, running, and modifying "gym meet")
+
+This section provides information of interest to developers wishing to use this code base as a basis for their own development tasks.
+
+### Installation
+
+First, [install Nextjs](https://nextjs.org/docs/app/getting-started/installation)
+
+Second, visit the [Gym Buddy application GitHub page](https://github.com/gym-meet/gym-buddy), and click the green "<> Code" button to retrieve the link to clone the repo onto your local.
+
+Third, cd into the gym-buddy directory and install libraries with:
+
+```
+$ npm install
+```
+
+Fourth, run the project with:
+```
+$ npm run dev
+```
+
+If all goes well, the application will appear at http://localhost:3000.
+
+### Application Design
+
+Gym Buddy is built upon [nextjs-application-template](https://github.com/ics-software-engineering/nextjs-application-template). Please use the videos and documentation at those sites to better acquaint yourself with the basic application design and form processing in Gym Buddy.
+
+### Data model
+
+The Gym Buddy data model consists of one "primary" collection: Profiles. To understand this design choice, consider the situation where you want to specify the characteristics of a Profile.
+
+### Quality Assurance
+
+#### ESLint
+
+Gym Buddy includes a [.eslintrc.json](https://github.com/gym-meet/gym-buddy/blob/main/.eslintrc.json) file to define the coding style adhered to in this application. You can invoke ESLint from the command line as follows:
+
+```
+$ npm run lint
+```
+
+ESLint should run without generating any errors.
+
+#### End to End Testing
+
+Gym Buddy uses Playwright to provide automated end-to-end testing.
+
+### Continuous Integration
+
+Gym Buddy uses [GitHub Actions](https://docs.github.com/en/free-pro-team@latest/actions) to automatically run ESLint and Playwright each time a commit is made to the default branch. You can see the results of all recent "workflows" at https://github.com/gym-meet/gym-buddy/actions.
 
 
 ## User Guide
