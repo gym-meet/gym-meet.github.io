@@ -27,6 +27,8 @@ Here is our deployed [application.](https://gym-buddy-five.vercel.app/)
 
 [Milestone 2](https://github.com/orgs/gym-meet/projects/7) 
 
+[Milestone 3](https://github.com/orgs/gym-meet/projects/8) 
+
 
 ## Overview
 
