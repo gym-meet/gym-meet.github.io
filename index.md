@@ -111,7 +111,7 @@ If you're signing in, it will only ask for your username and password before log
 
 After successfully logging in (or creating an account), you will be directed to the home page. Here, there's a brief description on what the app is about, and you'll have easy access to your profile page, the explore page, and calendar feature. Let's take a look at the profile page first.
 
-![](images/homepage.png)
+![](images/aboutupdated.png)
 
 You profile page is the place to customize your experience at gym meet to the fullest. You can update your username and password, list social media and any contact information you feel comfortable sharing, select what days out of the week you prefer to go to the gym and specific filters such as preferred exercises, experience, and gender. This ensures that you match with people who fit your routine and workout needs.
 
