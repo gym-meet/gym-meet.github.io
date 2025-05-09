@@ -131,4 +131,6 @@ After setting up the website and implementing the main features, we had several 
 
 On a scale from 1-5 (with 1 being the lowest score and 5 being the highest), 3/5 students said that they thought the website was very user friendly. The majority (4/5) of students also marked 4-5 in terms of whether they would use this site if it were actually available.
 
+![](images/evaluationcharts.png)
+
 In addition, most were very satisfied with the amount of content the site provided. A couple of students mentioned some general bugs, but also suggested we implement more customizable features. Overall, the students interviewed gave very positive feedback for our website and were enthusiastic to suggest even more customization ideas to make our site even better!
