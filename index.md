@@ -5,6 +5,7 @@
 * [Overview](#overview)
 * [Developer Guide](#developer-guide)
 * [User Guide](#user-guide)
+* [Peer Evaluation](#peer-evaluation)
 
 
 ## Team
@@ -94,6 +95,7 @@ Gym Buddy uses [GitHub Actions](https://docs.github.com/en/free-pro-team@latest/
 
 Gym Buddy uses [Vercel](https://vercel.com) to deploy new versions of the project. To deploy your version of the project, fork the repo into your own GitHub profile, develop in that fork, then start a new project in Vercel and connect it to your forked repo.
 
+
 ## User Guide
 The first page you're introduced to is the landing page, with it's main purpose being to guide you to the signup/sign in and explore pages. You can view the explore page even if you don't have an account, but you cannot befriend others until you sign in or create an account yourself.
 
@@ -122,3 +124,11 @@ Next is the explore page, where you can browse through other people's gym meet a
 Finally, we have the calendar page. This is a separate page that displays when you and your friends are going to the gym throughout the month. Here you can easily coordinate meetups at the gym and even add extra workout days that aren't listed in your weekly routine!
 
 ![](images/calendarpage-wip2.png)
+
+
+## Peer Evaluation
+After setting up the website and implementing the main features, we had several students test out the website and share their opinions. We asked them several questions that asked about the site's overall user-friendliness, relevance, and general features.
+
+On a scale from 1-5 (with 1 being the lowest score and 5 being the highest), 3/5 students said that they thought the website was very user friendly. The majority (4/5) of students also marked 4-5 in terms of whether they would use this site if it were actually available.
+
+In addition, most were very satisfied with the amount of content the site provided. A couple of students mentioned some general bugs, but also suggested we implement more customizable features. Overall, the students interviewed gave very positive feedback for our website and were enthusiastic to suggest even more customization ideas to make our site even better!
