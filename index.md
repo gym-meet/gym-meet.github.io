@@ -68,7 +68,7 @@ Gym Buddy is built upon [nextjs-application-template](https://github.com/ics-sof
 
 ### Data model
 
-The Gym Buddy data model consists of one "primary" collection: Profiles. To understand this design choice, consider the situation where you want to specify the characteristics of a Profile.
+The Gym Buddy data model consists of one "primary" collection: Profiles. A profile is made up of a username, email, and an encrypted password, and optionally, their schedule (an array of day strings), experience, gender, social media accounts, phone number, types of workouts. A user's personal data can be modified any time in the /profile page. To expand on this, each user also has a friends list; connected in Supabase through user IDs. So if user A and user B are friends, user A's friend's list would include user B, and vice versa.
 
 ### Quality Assurance
 
