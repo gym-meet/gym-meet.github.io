@@ -20,7 +20,7 @@ Here is our deployed [application.](https://gym-buddy-five.vercel.app/)
 
 ## CI Badge
 
-![ci-badge](https://github.com/gym-meet/gym-buddy/workflows/ci-nextjs-application-template/badge.svg)
+![](images/passingbadge.png)
 
 ## Milestones
 
